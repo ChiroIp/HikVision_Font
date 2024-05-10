@@ -16,7 +16,7 @@ License:
 
 HikVision_Font is licensed under the GPL3 license. Please refer to the license file in the repository for more details.
 
-'''
+```
 <link rel="stylesheet" type="text/css" href="path/to/HikVision_Font.css">
 <style>
   .hikvision-camera {
@@ -26,7 +26,7 @@ HikVision_Font is licensed under the GPL3 license. Please refer to the license f
   }
 </style>
 <div class="wyze-camera">HikVision Cam</div>
-'''
+```
 
 **Used in**
 
